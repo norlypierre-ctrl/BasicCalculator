@@ -12,7 +12,7 @@ public class BasicCalc {
         System.out.print("Enter Second Number: ");
         double num2 = scanner.nextDouble();
 
-        System.out.println("\n Possible Calculations:");
+        System.out.println("\nPossible Calculations:");
         System.out.println("(A)dd");
         System.out.println("(S)ubtract");
         System.out.println("(M)ultiply");
